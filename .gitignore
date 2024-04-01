@@ -38,3 +38,6 @@ isolate-*-v8.log
 #-----------------------------------
 deno.lock
 deno.json
+
+# OS
+.DS_Store
